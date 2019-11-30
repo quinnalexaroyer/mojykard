@@ -1,6 +1,5 @@
-# mojykard
+# mojykard (Version 0.1)
 Flashcard program written in Python tkinter. It requires Python 3.7.
-Version 0.1
 
 The name comes from the constructed language Lojban, which translates "memory card". This program is a work in progress.
 
